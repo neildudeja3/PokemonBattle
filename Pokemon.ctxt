@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment0.text=\r\n\ \ This\ is\ an\ amazing\ program\ that\ will\ win\ me\ lots\ of\ money\r\n
+comment1.params=
+comment1.target=Pokemon()
+comment2.params=health\ attack
+comment2.target=Pokemon(int,\ int)
+comment3.params=
+comment3.target=int\ getHealth()
+comment3.text=\r\n\ Accessors\ and\ Mutators\r\n
+comment4.params=health
+comment4.target=void\ setHealth(int)
+comment5.params=
+comment5.target=int\ getAttack()
+comment6.params=attack
+comment6.target=void\ setAttack(int)
+comment7.params=attack
+comment7.target=void\ damaged(int)
+numComments=8
